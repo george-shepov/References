@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# Giorgiy Shepov Professional References - [Shepov.com/References](http://shepov.com/References)
 
-You can use the [editor on GitHub](https://github.com/giorgiy-shepov/References/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Will Wardwell       
+**IT Manager at Cleveland Medical Devices Inc**
 
-```markdown
-Syntax highlighted code block
+Email              [wwardwell@clevemed.com](mailto:wwardwell@clevemed.com)
 
-# Header 1
-## Header 2
-### Header 3
+TEL                [+1-440-223-5337](tel:+1-440-223-5337)
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Julia Mogilevskaya
+**Project Manager at  Broadvox LLC / CloudRoute LLC**
 
-[Link](url) and ![Image](src)
-```
+Email:              [julia.mogilevskaya@gmail.com](mailto:julia.mogilevskaya@gmail.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+TEL:                [+380509892636](tel:+380509892636)
 
-### Jekyll Themes
+Skype:              *mogilevskayajulia*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/giorgiy-shepov/References/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Location:           *Kyev UA*
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+
+
+### Boris Gringauz
+**CFO at CloudRoute LLC**
+
+Email:              [boris@monoclego.com](mailto:boris@monoclego.com)
+
+TEL:                [+1-317-440-9962](tel:+1-317-440-9962)
+
+
+---
+
+
+### Oleg Falkov
+**Managing Partner at Compellotech Consulting**
+
+Email:              [oleg.falkov@compellotech.com](mailto:oleg.falkov@compellotech.com)
+
+TEL:                [+1-216-965-7129](tel:+1-216-965-7129)
+
+
+---
+
+
+### Mark  Husnick
+**Chief Information Officer at Arconic, former Alcoa**
+
+Email:              [Mark.husnick@arconic.com](mailto:Mark.husnick@arconic.com)
+
+TEL:                [+1-412-260-7001](tel:+1-412-260-7001)
+
+
+
+
