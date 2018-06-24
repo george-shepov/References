@@ -1,7 +1,7 @@
 # Giorgiy Shepov Professional References - [Shepov.com/References](http://shepov.com/References)
 
 
----
+
 
 
 ### Will Wardwell       
