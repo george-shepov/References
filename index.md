@@ -1,4 +1,4 @@
-# Giorgiy Shepov Professional References - [Shepov.com/References](http://shepov.com/References)
+# Giorgiy Shepov Professional References - [Shepov.com](http://shepov.com)
 
 
 
