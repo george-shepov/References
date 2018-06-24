@@ -1,6 +1,4 @@
-# Giorgiy Shepov Professional References - [Shepov.com/References](http://shepov.com/References)
-
-# [GitHub Pages](https://giorgiy-shepov.github.io/References/)
+# Giorgiy Shepov Professional References - [Shepov.com/References](https://giorgiy-shepov.github.io/References/)
 
 
 ### Will Wardwell       
