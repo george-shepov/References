@@ -1,6 +1,6 @@
 # Giorgiy Shepov Professional References - [Shepov.com/References](https://giorgiy-shepov.github.io/References/)
 
-## [Shepov.com](http://Shepov.com)
+## Navigate to [Shepov.com](http://Shepov.com)
 
 ---
 
