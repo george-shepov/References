@@ -1,5 +1,8 @@
 # Giorgiy Shepov Professional References - [Shepov.com/References](https://giorgiy-shepov.github.io/References/)
 
+## [Shepov.com](http://Shepov.com)
+
+---
 
 ### Will Wardwell       
 **IT Manager at Cleveland Medical Devices Inc**
