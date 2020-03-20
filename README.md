@@ -1,6 +1,31 @@
 # Giorgiy Shepov Professional References - [Shepov.com/References](https://giorgiy-shepov.github.io/References/)
 
-## Navigate to [Shepov.com](http://Shepov.com)
+---
+
+### Robert Wawszkiewicz
+**Director of Application Development & Support, IntelliCorp Records Inc**
+
+Email              [RWawszkiewicz@Intellicorp.net](mailto:RWawszkiewicz@Intellicorp.net)
+
+TEL                [(216) 450-5490](tel:+1-216-450-5490)
+
+---
+
+### Vineela Darapuneni
+**Mgr  Software Dev (ITC) IntelliCorp Records Inc**
+
+Email              [VDarapuneni@Intellicorp.net](mailto:VDarapuneni@Intellicorp.net)
+
+TEL                [(216) 450-5106, Ext. 114](tel:+1-216-450-5106)
+
+---
+
+### John Zeleji
+**Senior Developer, Project Lead, IntelliCorp Records Inc**
+
+Email              [jzeleji@intellicorp.net](mailto:jzeleji@intellicorp.net)
+
+TEL                [(216) 450-5497, Ext. 143](tel:+1-216-450-5497)
 
 ---
 
