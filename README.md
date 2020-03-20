@@ -1,4 +1,4 @@
-# Giorgiy Shepov Professional References - [/References](https://giorgiy-shepov.github.io/References/)
+# Giorgiy Shepov Professional References
 
 ---
 
