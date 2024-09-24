@@ -1,6 +1,8 @@
-# Giorgiy Shepov Professional References
+# Giorgiy Shepov Professional References:
+
 
 ---
+
 
 ### Robert Wawszkiewicz
 **Director of Application Development & Support, IntelliCorp Records Inc**
